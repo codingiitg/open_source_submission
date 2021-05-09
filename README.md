@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/1bIFsHG2XEYO_N6uMkv-5_LSkkrFt3Nj2/view?usp=sharing)
+
 # open_source_submission
 ![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
 
