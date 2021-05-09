@@ -13,7 +13,7 @@
 - Fill the first and the second row according to the given schedule
 - For the third column fill in YES & NO ONLY.
 3. Write a C++ Code in a fenced code block.
-You have to code  a program which gives SUM of ASCII values of your FULL NAME.
+- You have to code  a program which gives SUM of ASCII values of your FULL NAME.
 Attach the image of the LOGO of the Coding Club.(img will be provided)
 4. Write a Short description on your interest in different fields of coding  and list some noticeable achievements if any.(list should be an ordered one)
  ****
