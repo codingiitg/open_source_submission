@@ -1,6 +1,6 @@
 # open_source_submission
 ## Commit your .md file with file name as your Roll no. in Submission folder 
-![alt text](Group 844.png)
+![alt text](https://github.com/codingiitg/open_source_submission/blob/main/Group%20844.png)
 
 
 ## PROBLEM STATEMENT
