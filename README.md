@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/codingiitg/open_source_submission/blob/main/Group%2095.png)
 # open_source_submission
 ![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
 
