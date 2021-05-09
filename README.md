@@ -1,7 +1,9 @@
 # open_source_submission
 ## Commit your .md file with file name as your Roll no. in Submission folder 
+![alt text](Group 844.png)
 
-# PROBLEM STATEMENT
+
+## PROBLEM STATEMENT
 ### You need to create a .md file with the following instructions given below and push it to the opensoc_task github repository of Coding Club IITG 
 ****
 ## INSTRUCTIONS
