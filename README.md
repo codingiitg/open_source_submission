@@ -1,6 +1,5 @@
 # open_source_submission
-## Commit your .md file with file name as your Roll no. in Submission folder 
-![alt text](https://github.com/codingiitg/open_source_submission/blob/main/Group%20844.png)
+![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
 
 
 ## PROBLEM STATEMENT
@@ -17,3 +16,6 @@
 You have to code  a program which gives SUM of ASCII values of your FULL NAME.
 Attach the image of the LOGO of the Coding Club.(img will be provided)
 4. Write a Short description on your interest in different fields of coding  and list some noticeable achievements if any.(list should be an ordered one)
+ ****
+## Submission
+### Commit your .md file with file name as your Roll no. in Submission folder 
