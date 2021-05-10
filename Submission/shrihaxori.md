@@ -32,7 +32,7 @@ int main(){
 }
 ```
 
-![Coding Club IITG Logo](https://d1fdloi71mui9q.cloudfront.net/oUyfr13QXOJdLesNcIxo_24pdZiF9M4q8Xx6d)
+![Coding Club IITG Logo](https://github.com/shrihaxori/open_source_submission/blob/main/coding-club%20logo.png?raw=true)
 
 
 ### Interested in Competititve Programming and Web Development. At present learning Open Source and Design. Still exploring all fields and trying to find what I am interested in. Did some projects in school. No noticeable achievements yet. ###
